@@ -1,0 +1,100 @@
+Graph 1 with 10 vertices 
+Time kruskal: 0.0555 milli sec
+
+
+
+Graph 2 with 10 vertices 
+Time kruskal: 0.0522 milli sec
+
+
+
+Graph 3 with 10 vertices 
+Time kruskal: 0.0553 milli sec
+
+
+
+Graph 4 with 10 vertices 
+Time kruskal: 0.051 milli sec
+
+
+
+Graph 5 with 10 vertices 
+Time kruskal: 0.0528 milli sec
+
+
+
+Graph 1 with 20 vertices 
+Time kruskal: 0.1661 milli sec
+
+
+
+Graph 2 with 20 vertices 
+Time kruskal: 0.158 milli sec
+
+
+
+Graph 3 with 20 vertices 
+Time kruskal: 0.1511 milli sec
+
+
+
+Graph 4 with 20 vertices 
+Time kruskal: 0.1968 milli sec
+
+
+
+Graph 5 with 20 vertices 
+Time kruskal: 0.1611 milli sec
+
+
+
+Graph 1 with 50 vertices 
+Time kruskal: 0.7879 milli sec
+
+
+
+Graph 2 with 50 vertices 
+Time kruskal: 0.7579 milli sec
+
+
+
+Graph 3 with 50 vertices 
+Time kruskal: 0.7979 milli sec
+
+
+
+Graph 4 with 50 vertices 
+Time kruskal: 0.7537 milli sec
+
+
+
+Graph 5 with 50 vertices 
+Time kruskal: 0.817 milli sec
+
+
+
+Graph 1 with 100 vertices 
+Time kruskal: 4.0954 milli sec
+
+
+
+Graph 2 with 100 vertices 
+Time kruskal: 3.9727 milli sec
+
+
+
+Graph 3 with 100 vertices 
+Time kruskal: 3.9455 milli sec
+
+
+
+Graph 4 with 100 vertices 
+Time kruskal: 3.4552 milli sec
+
+
+
+Graph 5 with 100 vertices 
+Time kruskal: 4.598 milli sec
+
+
+
